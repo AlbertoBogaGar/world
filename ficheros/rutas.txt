@@ -1,0 +1,5 @@
+DBName=world2
+URL=jdbc:mysql://localhost:3306/
+USER=root
+PASS=
+Driver=com.mysql.cj.jdbc.Driver
